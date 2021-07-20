@@ -7,6 +7,7 @@
 - UItextFile
 - UItextview
 - UIsegmentControll
+- etc
 
 ## Video
 
