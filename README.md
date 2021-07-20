@@ -1,6 +1,6 @@
 
 # StudentAdmissionCoreDataApp
-simple appliction for student Admission using CoreData
+- Simple appliction for student Admission using CoreData
 
 ## UIElement
 - UITableView
